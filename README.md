@@ -1,6 +1,6 @@
 # The Rise of Object Store Architectures
 
-Built with Deckset.
+![right](presentation/1.jpeg)
 
 PDF available at [presentation.pdf](presentation.pdf).
 

@@ -2,10 +2,13 @@ slidenumbers: true
 autoscale: true
 build-lists: true
 
+[.header: #C01D04, text-scale(0.9)]
 
-## The Rise of Object Store Architectures
+# The Rise of Object Store Architectures
 
 ### Ted Naleid (he/him)
+
+![right](images/storage-architectures.svg)
 
 ---
 
