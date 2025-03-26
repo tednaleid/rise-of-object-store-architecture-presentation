@@ -1,6 +1,6 @@
 # The Rise of Object Store Architectures
 
-![right](presentation/1.jpeg)
+![right](presentation/01.jpeg)
 
 PDF available at [presentation.pdf](presentation.pdf).
 
